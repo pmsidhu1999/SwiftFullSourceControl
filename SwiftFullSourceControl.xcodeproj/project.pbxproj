@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F5807712C84E3A000CB8835 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F5807702C84E3A000CB8835 /* HomeView.swift */; };
 		1F686E4C2C80EC3F0049EB3E /* SwiftFullSourceControlApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F686E4B2C80EC3F0049EB3E /* SwiftFullSourceControlApp.swift */; };
 		1F686E4E2C80EC3F0049EB3E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F686E4D2C80EC3F0049EB3E /* ContentView.swift */; };
 		1F686E502C80EC3F0049EB3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F686E4F2C80EC3F0049EB3E /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F5807702C84E3A000CB8835 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		1F686E482C80EC3F0049EB3E /* SwiftFullSourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftFullSourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F686E4B2C80EC3F0049EB3E /* SwiftFullSourceControlApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftFullSourceControlApp.swift; sourceTree = "<group>"; };
 		1F686E4D2C80EC3F0049EB3E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				1F686E4B2C80EC3F0049EB3E /* SwiftFullSourceControlApp.swift */,
+				1F5807702C84E3A000CB8835 /* HomeView.swift */,
 				1F686E4D2C80EC3F0049EB3E /* ContentView.swift */,
 				1F686E4F2C80EC3F0049EB3E /* Assets.xcassets */,
 				1F686E512C80EC3F0049EB3E /* SwiftFullSourceControl.entitlements */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F5807712C84E3A000CB8835 /* HomeView.swift in Sources */,
 				1F686E4E2C80EC3F0049EB3E /* ContentView.swift in Sources */,
 				1F686E4C2C80EC3F0049EB3E /* SwiftFullSourceControlApp.swift in Sources */,
 			);
